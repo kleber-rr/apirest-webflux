@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: cluster0
+      uri: mongodb+srv://kleber-rr:pfhCm6GgO7Zg8kg9@cluster0.eb3btbg.mongodb.net/?retryWrites=true&w=majority
+
+
